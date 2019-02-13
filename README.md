@@ -19,6 +19,6 @@ Press "Clone or download", then choose "Download ZIP". Unpack this and remember 
 3. Choose the patch you'd unpacked the extension to
 
 ## Why
-It's much more faster than using any VPS.
+It's much faster than using any VPS.
 
 Enjoy.
