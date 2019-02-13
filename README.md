@@ -25,3 +25,8 @@ Press "Clone or download", then choose "Download ZIP". Unpack this and remember 
 It works much faster than any VPS.
 
 Enjoy.
+
+
+
+
+_(the font on screenshot is NB Akademie)_
