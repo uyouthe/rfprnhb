@@ -1,6 +1,6 @@
 # 💦 rfprnhb
 
-Remove annoyances from russian pornhub.
+Remove annoyances from russian pornhub. When you visit pornhub in russia, there'll be an annoying verification screen that prevents you from using pornhub without a VK verification. So this extension removes that screen.
 
 ## Usage
 
