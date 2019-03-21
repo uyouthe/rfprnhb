@@ -17,12 +17,12 @@ Press "Clone or download", then choose "Download ZIP". Unpack this and remember 
 4. Choose the path you'd unpacked the extension to
 
 ### Firefox 
-1. Go to about:debugging#addons, just paste this to search bar and press enter
+1. Go to `about:debugging#addons`, just paste this to search bar and press enter
 2. Load Temorary add-on...
 3. Choose the path you'd unpacked the extension to
 
 ## Why
-It works much faster than any VPS.
+It works much faster than any VPN.
 
 Enjoy.
 
