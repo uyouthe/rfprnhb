@@ -1,4 +1,4 @@
-# 💦 rfprnhb [![Become a patron](https://miloslav.website/patreon.svg)](https://www.patreon.com/uyouthe)
+# 💦 rfprnhb 
 
 ![The screenshot of annoying popup removed 
 ](https://cdn.jsdelivr.net/gh/uyouthe/rfprnhb/cover.jpg)
